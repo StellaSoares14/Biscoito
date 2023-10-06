@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(90deg, rgb(239, 34, 201) , rgb(100, 213, 204), rgb(174, 79, 206));
+}
+
+.img{
+    width: 200px;
+
+}
